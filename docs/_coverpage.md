@@ -4,4 +4,4 @@
 
 > 开发手册
 
-[Getting Started](#docsify)
+[Getting Started](README.md)
