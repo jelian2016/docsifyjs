@@ -12,9 +12,6 @@
 
 竞赛服务：http://49.4.25.185:8084/swagger-ui.html#/
 
-
-华为云地址：https://devcloud.huaweicloud.com/home
-
 ## 原型
 
 客户端：https://njnzt9.axshare.com/#
