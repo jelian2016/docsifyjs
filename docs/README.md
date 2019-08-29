@@ -13,4 +13,4 @@
 
 竞赛服务：http://49.4.25.185:8084/swagger-ui.html#/
 
-华为云地址：https://auth.huaweicloud.com/authui/login?#/login
+华为云地址：https://devcloud.huaweicloud.com/home
