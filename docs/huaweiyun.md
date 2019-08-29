@@ -1,8 +1,8 @@
 # 华为云
+# 编译构建
 
 华为云地址：https://devcloud.huaweicloud.com/home
 
-# 编译构建
 1.把springboot项目编译通过打成jar包。
 
 2.上传软件包到软件发布库。
