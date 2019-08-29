@@ -12,6 +12,6 @@
 
 ## 原型
 
-客户端：https://njnzt9.axshare.com/#
+管理端：https://njnzt9.axshare.com/#
 
-管理端：https://assulp.axshare.com/
+客户端：https://assulp.axshare.com/
