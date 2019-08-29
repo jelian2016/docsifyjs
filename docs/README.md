@@ -1,5 +1,3 @@
-# 聚合服务手册
-
 ## 必看手册文档(重要)
   https://vitzhou.github.io/futurebase-doc
 
